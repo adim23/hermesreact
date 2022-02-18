@@ -1,0 +1,26 @@
+{
+  "hermesreactApp": {
+    "citizensRelations": {
+      "home": {
+        "title": "Citizens Relations",
+        "refreshListLabel": "Liste aktualisieren",
+        "createLabel": "Citizens Relations erstellen",
+        "createOrEditLabel": "Citizens Relations erstellen oder bearbeiten",
+        "search": "Suche nach Citizens Relations",
+        "notFound": "Keine Citizens Relations gefunden"
+      },
+      "created": "Citizens Relations erstellt mit ID {{ param }}",
+      "updated": "Citizens Relations aktualisiert mit ID {{ param }}",
+      "deleted": "Citizens Relations gelöscht mit ID {{ param }}",
+      "delete": {
+        "question": "Soll Citizens Relations {{ id }} wirklich dauerhaft gelöscht werden?"
+      },
+      "detail": {
+        "title": "Citizens Relations"
+      },
+      "id": "ID",
+      "name": "Name",
+      "citizen": "Citizen"
+    }
+  }
+}

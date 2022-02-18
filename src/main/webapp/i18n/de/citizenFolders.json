@@ -1,0 +1,27 @@
+{
+  "hermesreactApp": {
+    "citizenFolders": {
+      "home": {
+        "title": "Citizen Folders",
+        "refreshListLabel": "Liste aktualisieren",
+        "createLabel": "Citizen Folders erstellen",
+        "createOrEditLabel": "Citizen Folders erstellen oder bearbeiten",
+        "search": "Suche nach Citizen Folders",
+        "notFound": "Keine Citizen Folders gefunden"
+      },
+      "created": "Citizen Folders erstellt mit ID {{ param }}",
+      "updated": "Citizen Folders aktualisiert mit ID {{ param }}",
+      "deleted": "Citizen Folders gelöscht mit ID {{ param }}",
+      "delete": {
+        "question": "Soll Citizen Folders {{ id }} wirklich dauerhaft gelöscht werden?"
+      },
+      "detail": {
+        "title": "Citizen Folders"
+      },
+      "id": "ID",
+      "name": "Name",
+      "description": "Description",
+      "special": "Special"
+    }
+  }
+}
