@@ -1,0 +1,25 @@
+{
+  "hermesreactApp": {
+    "origins": {
+      "home": {
+        "title": "Origins",
+        "refreshListLabel": "Refresh list",
+        "createLabel": "Δημιουργήστε ένα νέο Origins",
+        "createOrEditLabel": "Δημιουργήστε η επεξεργαστείτε ένα Origins",
+        "search": "Αναζήτηση για Origins",
+        "notFound": "No Origins found"
+      },
+      "created": "Ένα νέο Origins έχει δημιουργηθεί με αναγνωριστικό {{ param }}",
+      "updated": "Ένα Origins έχει ενημερωθεί με αναγνωριστικό {{ param }}",
+      "deleted": "Ένα Origins έχει διαγραφτεί με αναγνωριστικό {{ param }}",
+      "delete": {
+        "question": "Είστε βέβαιοι όταν θέλετε να διαγράψετε το ακόλουθο Origins {{ id }};"
+      },
+      "detail": {
+        "title": "Origins"
+      },
+      "id": "ID",
+      "name": "Name"
+    }
+  }
+}
